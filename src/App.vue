@@ -1,6 +1,6 @@
 <template>
   <div id="sidebar"></div>
-  <Other></Other>
+  <Other something="grey"></Other>
 </template>
 
 <script>
